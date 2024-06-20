@@ -17,7 +17,7 @@ banner = r"""
 """
 
 def main():
-    os.system("cls")
+    os.system("clear")
     print(Fore.RED,banner,Fore.WHITE)
     generate()
 
